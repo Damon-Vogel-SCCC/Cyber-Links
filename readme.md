@@ -3,6 +3,7 @@
 
 ## Table of Contents
   [Conferences](#conferences)
+  
   [Forums](#forums)
 
 
@@ -17,7 +18,7 @@
 
 [Black Hat](https://www.blackhat.com/) - Black Hat Briefings and Trainings are driven by the needs of the global security community, striving to bring together the best minds in the industry.
 
-[Passed Hacker Conferences @ archive.org](https://archive.org/details/hackercons) - This is a listing of all of the hacker conferences that are avaialab
+[Past Hacker Conferences @ archive.org](https://archive.org/details/hackercons) - This is a listing of all of the hacker conferences that are avaialab
 
 
 ## Forums
