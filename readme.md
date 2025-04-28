@@ -8,7 +8,8 @@
 
   [Lockpicking](#lockpicking)
 
-  [Tools & Toolboxes]()
+  [Tools & Toolboxes](#tools-and-toolboxes)
+    []()
 
 
 
