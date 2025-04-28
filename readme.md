@@ -8,6 +8,8 @@
 
   [Lockpicking](#lockpicking)
 
+  [Tools & Toolboxes]()
+
 
 
 
@@ -32,6 +34,13 @@ A community dedicated to the fun and ethical hobby of lock picking.
 [The Open Organization of Lockpicking](https://toool.us/) - The Open Organisation Of Lockpickers, or TOOOL, is an international group of lockpicking enthusiasts dedicated to advancing the general public knowledge about locks and lockpicking through teaching, research, and competition.
 
 [Hooligan Keys](https://www.hooligankeys.com/) - After many requests for the popular pre-cut keys out there, I've put together a basic selection, with more to come.
+
+## Tools and Toolboxes
+
+### Tools
+
+
+### Toolboxes
 
 
 
