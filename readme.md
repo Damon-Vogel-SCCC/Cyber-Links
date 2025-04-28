@@ -3,7 +3,7 @@
 
 ## Table of Contents
   [Conferences](#conferences)
-  [Forums](#Forums)
+  [Forums](#forums)
 
 
 
@@ -14,6 +14,10 @@
 ## Conferences
 
 [DEF CON](https://defcon.org/) - The largest hacking and security conference with presentations, workshops, contests, villages and the premier Capture The Flag Contest.
+
+[Black Hat](https://www.blackhat.com/) - Black Hat Briefings and Trainings are driven by the needs of the global security community, striving to bring together the best minds in the industry.
+
+[Passed Hacker Conferences @ archive.org](https://archive.org/details/hackercons) - This is a listing of all of the hacker conferences that are avaialab
 
 
 ## Forums
